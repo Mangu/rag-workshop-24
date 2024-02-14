@@ -1,0 +1,7 @@
+promptflow[azure]
+promptflow-tools
+langchain
+openai==1.3.9
+azure-search-documents==11.4.b11
+unstructured
+markdown

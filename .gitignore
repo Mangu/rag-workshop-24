@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore data folder
+/data/
+
+/infobot/
+
+# Ignore .promptflow folders
+.promptflow/*
+/*/.promptflow/*
+/*/__pycache__/*
+
+# Ignore .env files
+
+.env
